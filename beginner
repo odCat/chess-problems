@@ -1,3 +1,6 @@
+# Albul mută și câstigă
+
+
 Rg1, Ta1, b2, d4, f2, g2, h2
 Rg8, Tg6, b7, b5, f7, g7, h7
 
@@ -13,3 +16,11 @@ Rh8, Tg8, a7, b6, c4, d5, e6, f7, g7
 Rb1, Th1, Cg6, a2, b2, d4, e5, f5, g2
 Rg8, Df7, a6, b6, d5, e6, f6, g7
 
+Rg6, Ta1
+Rg8
+
+Rg2, Ta7, Tb2
+Re8
+
+Rh6, Td7, a4, e4
+Rh8, Tg8, a5, e5, f6

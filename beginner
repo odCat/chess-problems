@@ -49,4 +49,13 @@ Rc1, Dc3, Td1, Nd4, a2, b2, c3, e4, f4, g2, h2
 Rh8, Dc7, Td8, Cg8, a7, b7, c6, f7, g7, h7
 
 13.
-Rc1, Dd4, Ta8, 
+Rc1, Dh4, Td1, Te1, Nb2, a2, b3, c3, e4, f2, g2, h2
+Rg8, De7, Ta8, Te8, Cb5, a5, b4, c7, d6, f7, g6, g5
+
+14.
+Rb1, Dc3, Te1, Tg1, a2, b2, e4, f5
+Rg8, Db7, Td8, Te8, a6, b5, c7, f7, g7, h7
+
+15.
+Rg1, Dg5, Te1, Tf1, Cf5, a2, b2, c2, d3, e4, f4, g2, h2
+Rg8, Dd7, Td8, Te8, Cf6, a7, b7, c7, d6, e5, f7, g7, h7

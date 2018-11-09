@@ -4,7 +4,7 @@
 Rg1, Ta1, b2, d4, f2, g2, h2
 Rg8, Tg6, b7, b5, f7, g7, h7
 
-Rc1, Td1, Td3, a1, b2, c3, e4, f2, g2, h2
+Rc1, Td1, Td3, a2, b2, c3, e4, f2, g2, h2
 Rg8, Ta8, Tb6, a5, b4, c5, e5, f7, g7, h7
 
 Rc1, Dd2, Td1, Td3, a3, b2, c3, e5, f4, g2, h2
@@ -36,3 +36,5 @@ Rg8, Df8, Tc8
 
 Rc1, Dc3, Td1, Nd4, a2, b2, c3, e4, f4, g2, h2
 Rh8, Dc7, Td8, Cg8, a7, b7, c6, f7, g7, h7
+
+Rc1, Dd4, Ta8, 
